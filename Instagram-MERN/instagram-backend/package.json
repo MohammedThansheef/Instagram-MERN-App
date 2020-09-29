@@ -1,0 +1,13 @@
+{
+  "name": "instagram-backend",
+  "version": "1.0.0",
+  "description": "Instagram clone build using MERN stack",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "tanseef",
+  "license": "ISC"
+}
